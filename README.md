@@ -10,3 +10,10 @@ It also takes some configuration from the following github repo: [PacketAnglers 
 
 It is set up to use ceos 4.35.0F.
 I have also used the VS Code Containerlab Extension to generate a topology file for it.
+
+## Running the lab
+- Ensure that you have a working containerlab instance
+- Import ceos 4.35.0F tarball into docker
+- To start via CLI - `make start`
+- To stop the lab - `make stop`
+- You can also use the VS Code Containerlab extension to start and stop the lab.
