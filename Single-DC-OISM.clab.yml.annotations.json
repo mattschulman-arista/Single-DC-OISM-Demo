@@ -1,0 +1,448 @@
+{
+  "freeTextAnnotations": [
+    {
+      "id": "freeText_1773939661374",
+      "text": "Host1\\\nVLAN 10\\\n10.10.10.101\\\n239.0.10.101",
+      "position": {
+        "x": 59.68557631065579,
+        "y": 726.9575194243556
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773939712824",
+      "text": "Host2\\\nVLAN 20\\\n10.20.20.101\\\n239.0.20.101",
+      "position": {
+        "x": 197.00344542370215,
+        "y": 725.4871632271563
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773939762142",
+      "text": "Host3\\\nVLAN 30\\\n10.30.30.30.101\\\n239.0.30.101",
+      "position": {
+        "x": 293.89945913564264,
+        "y": 726.8444734994605
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773939818651",
+      "text": "Host4\\\nVLAN 10\\\n10.10.10.102\\\n239.0.10.102",
+      "position": {
+        "x": 430.52519863873846,
+        "y": 726.5663201343922
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773939852823",
+      "text": "Host5\\\nVLAN 20\\\n10.20.20.102\\\n239.0.20.102",
+      "position": {
+        "x": 533.8459654141138,
+        "y": 729.8101459133586
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773943862958",
+      "text": "Host6\\\n\\\n10.40.40.101\\\n239.0.40.101",
+      "position": {
+        "x": 646.3461829876727,
+        "y": 729.897864769308
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773943922728",
+      "text": "Host7\\\n\\\n10.50.50.101\\\n239.0.50.101",
+      "position": {
+        "x": 835.2513783997016,
+        "y": 727.370000308891
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial",
+      "groupId": "group-3"
+    },
+    {
+      "id": "freeText_1773943963820",
+      "text": "RP",
+      "position": {
+        "x": 883.8102581255338,
+        "y": 508.4445873449231
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial",
+      "groupId": "group-3"
+    },
+    {
+      "id": "freeText_1773943982582",
+      "text": "PEG\\\nDF",
+      "position": {
+        "x": 819.6207502163974,
+        "y": 383.39654163060044
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial",
+      "groupId": "group-1"
+    },
+    {
+      "id": "freeText_1773944000623",
+      "text": "PEG",
+      "position": {
+        "x": 701.3552753678754,
+        "y": 386.01625356215436
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial",
+      "groupId": "group-1"
+    },
+    {
+      "id": "freeText_1773944018576",
+      "text": "PEG",
+      "position": {
+        "x": 584.9868612923757,
+        "y": 384.01083570810295
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial",
+      "groupId": "group-1"
+    },
+    {
+      "id": "freeText_1773946374279",
+      "text": "VXLAN Schema\\\nL2VNI = 10000 + VLANID\\\nL3VNI - VRF PROD = 50001",
+      "position": {
+        "x": -232.519866726514,
+        "y": 257.1866391657886
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1773946482634",
+      "text": "VRF Prod - Overlay to Underlay Multicast Mappings\\\nN:1 - 232.1.1.1\\\n1:1 - 239.0.20.101 -> 232.1.20.101",
+      "position": {
+        "x": 1006.3110123900103,
+        "y": 271.31993019007876
+      },
+      "fontSize": 14,
+      "fontColor": "#d4d4d4",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    }
+  ],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "groupStyleAnnotations": [
+    {
+      "id": "group-1",
+      "name": "EVPN Domain A (AS 65100)",
+      "level": "1",
+      "position": {
+        "x": 46.45161290322574,
+        "y": 268.07526881720435
+      },
+      "width": 822,
+      "height": 213,
+      "backgroundColor": "#2a5533",
+      "backgroundOpacity": 15,
+      "borderColor": "#d4d4d4",
+      "borderWidth": 2,
+      "borderStyle": "solid",
+      "borderRadius": 8,
+      "zIndex": -1
+    },
+    {
+      "id": "group-2",
+      "name": "ESI",
+      "level": "1",
+      "position": {
+        "x": 126.59498207885298,
+        "y": 377.35842293906813
+      },
+      "width": 264,
+      "height": 95,
+      "backgroundColor": "rgba(100, 100, 255, 0.1)",
+      "backgroundOpacity": 30,
+      "borderColor": "#d4d4d4",
+      "borderWidth": 2,
+      "borderStyle": "solid",
+      "borderRadius": 8,
+      "zIndex": -1
+    },
+    {
+      "id": "group-3",
+      "name": "External PIM Domain 1",
+      "level": "1",
+      "position": {
+        "x": 607.732791415492,
+        "y": 497.6115476616644
+      },
+      "width": 341,
+      "height": 232,
+      "backgroundColor": "rgba(100, 100, 255, 0.1)",
+      "borderColor": "#d4d4d4",
+      "borderWidth": 2,
+      "borderStyle": "dashed",
+      "borderRadius": 8,
+      "labelPosition": "bottom-center",
+      "zIndex": -1
+    },
+    {
+      "id": "group-4",
+      "name": "Ext PIM Domain 1A (AS 65001)",
+      "level": "1",
+      "position": {
+        "x": 631.4771948358915,
+        "y": 511.7073385246073
+      },
+      "width": 112,
+      "height": 200,
+      "backgroundColor": "#deff66",
+      "backgroundOpacity": 15,
+      "borderColor": "#d4d4d4",
+      "borderWidth": 2,
+      "borderStyle": "dashed",
+      "borderRadius": 8,
+      "labelPosition": "bottom-center",
+      "parentId": "group-3",
+      "groupId": "group-3",
+      "zIndex": -1
+    },
+    {
+      "id": "group-5",
+      "name": "Ext PIM Domain 1B (AS 65002)",
+      "level": "1",
+      "position": {
+        "x": 809.3257185786583,
+        "y": 509.2588919907299
+      },
+      "width": 113,
+      "height": 203,
+      "backgroundColor": "#deff66",
+      "backgroundOpacity": 15,
+      "borderColor": "#d4d4d4",
+      "borderWidth": 2,
+      "borderStyle": "dashed",
+      "borderRadius": 8,
+      "labelPosition": "bottom-center",
+      "parentId": "group-3",
+      "groupId": "group-3",
+      "zIndex": -1
+    }
+  ],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "A-Leaf4",
+      "position": {
+        "x": 540,
+        "y": 400
+      },
+      "icon": "leaf",
+      "groupId": "group-1"
+    },
+    {
+      "id": "R2",
+      "position": {
+        "x": 846.0811975896066,
+        "y": 519.3934605211718
+      },
+      "icon": "pe",
+      "groupId": "group-5"
+    },
+    {
+      "id": "Host7",
+      "position": {
+        "x": 846.0811975896066,
+        "y": 639.3934605211718
+      },
+      "icon": "ue",
+      "groupId": "group-5"
+    },
+    {
+      "id": "A-Spine1",
+      "position": {
+        "x": 460,
+        "y": 280
+      },
+      "icon": "spine"
+    },
+    {
+      "id": "A-Leaf1",
+      "position": {
+        "x": 180,
+        "y": 400
+      },
+      "icon": "leaf"
+    },
+    {
+      "id": "A-Leaf2",
+      "position": {
+        "x": 320,
+        "y": 400
+      },
+      "icon": "leaf"
+    },
+    {
+      "id": "A-Leaf3",
+      "position": {
+        "x": 440,
+        "y": 400
+      },
+      "icon": "leaf"
+    },
+    {
+      "id": "A-Leaf5",
+      "position": {
+        "x": 660,
+        "y": 400
+      },
+      "icon": "leaf"
+    },
+    {
+      "id": "A-Leaf6",
+      "position": {
+        "x": 780,
+        "y": 400
+      },
+      "icon": "leaf"
+    },
+    {
+      "id": "A-SW1",
+      "position": {
+        "x": 240,
+        "y": 520
+      },
+      "icon": "switch"
+    },
+    {
+      "id": "Host2",
+      "position": {
+        "x": 200,
+        "y": 640
+      },
+      "icon": "ue"
+    },
+    {
+      "id": "Host3",
+      "position": {
+        "x": 300,
+        "y": 640
+      },
+      "icon": "ue"
+    },
+    {
+      "id": "Host4",
+      "position": {
+        "x": 440,
+        "y": 640
+      },
+      "icon": "ue"
+    },
+    {
+      "id": "Host5",
+      "position": {
+        "x": 540,
+        "y": 640
+      },
+      "icon": "ue"
+    },
+    {
+      "id": "Host1",
+      "position": {
+        "x": 60,
+        "y": 640
+      },
+      "icon": "ue"
+    },
+    {
+      "id": "Host6",
+      "position": {
+        "x": 660,
+        "y": 640
+      },
+      "icon": "ue"
+    },
+    {
+      "id": "R1",
+      "position": {
+        "x": 660,
+        "y": 520
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}
